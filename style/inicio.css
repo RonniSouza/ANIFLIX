@@ -1,0 +1,16 @@
+.box-anime{
+    float: left;
+    width: 16%;
+    margin-top: 9px;
+    margin-left: 8px;    
+}
+
+.box-anime {
+    -webkit-transition: -webkit-transform .5s ease;
+    transition: transform .5s ease;
+}
+/*aumenta o tamanho da imagem ao passar o mouse*/
+.box-anime:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
