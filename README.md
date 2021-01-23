@@ -16,4 +16,4 @@ Praticando conceitos com os estudos utilizados na Digital Innovation One
 ### 🛠 Tecnologias 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Jquery (para o funionamento do carousel)](https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html)
+- [Jquery(plugin para o funcionamento do carrosel)](https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html)
