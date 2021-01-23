@@ -1,7 +1,7 @@
 # ANIFLIX
 
 Pagina criada para fins de estudo.
-Praticando conceitos aprendindo com os estudos na #DigitalInnovationOne
+Praticando conceitos com os estudos praticados na @digitalinnovaticonone
 
 ## Home Page
 ![Home page](https://github.com/RonniSouza/ANIFLIX/blob/master/img/home-page.png)
