@@ -1,7 +1,7 @@
 # ANIFLIX
 
 Pagina criada para fins de estudo.
-Praticando conceitos com os estudos praticados na @digitalinnovaticonone
+Praticando conceitos com os estudos praticados na Digital Innovation One
 
 
 ## Home Page
