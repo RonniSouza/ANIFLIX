@@ -1,8 +1,6 @@
 # ANIFLIX
 
 Pagina criada para fins de estudo.
-Praticando conceitos com os estudos utilizados na Digital Innovation One
-
 
 ## Home Page
 ![Home page](https://github.com/RonniSouza/ANIFLIX/blob/master/img/home-page.png)
