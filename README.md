@@ -1,6 +1,6 @@
 # ANIFLIX
 
-Pagina criada para fins de estudo.
+Pagina criada através do bootcamp da Digital Innovation One.
 
 ## Home Page
 ![Home page](https://github.com/RonniSouza/ANIFLIX/blob/master/img/home-page.png)
